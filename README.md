@@ -10,7 +10,7 @@
 - :whale:  Mainly doing work related to Kubernetes and ServiceMesh. Of course, I also guest star in OpenTelemetery.  
   
 
-- :icecream:  I really enjoyed reading the book <u>Those Things Happened in Ming Dynasty</u>
+- :icecream:  I really enjoyed reading the book _Those Things Happened in Ming Dynasty_
   
 
 <br/>  
