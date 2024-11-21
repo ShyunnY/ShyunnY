@@ -17,4 +17,8 @@
 
 - :muscle: I am currently learning `rust` and look forward to further communication with you!
 
+<h2></h2>
+
 <br/>  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShyunnY&theme=vue)
